@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitAPI6_1", "RevitAPI6_1\RevitAPI6_1.csproj", "{80094A48-576B-4495-ADF4-EB3F17A55BB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitAPITrainingLibrary", "..\Приложение\Тема 6\RevitAPITrainingLibrary\RevitAPITrainingLibrary.csproj", "{C7864CF2-8C0C-4EC9-8052-F12F1C4A016C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitAPI6_2", "RevitAPI6_2\RevitAPI6_2.csproj", "{BAEF0B82-C6F7-4F27-A92A-170670B8B064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevitAPI6_3", "RevitAPI6_3\RevitAPI6_3.csproj", "{3D86AE5D-1E87-43BD-808F-817C17599501}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80094A48-576B-4495-ADF4-EB3F17A55BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80094A48-576B-4495-ADF4-EB3F17A55BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80094A48-576B-4495-ADF4-EB3F17A55BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80094A48-576B-4495-ADF4-EB3F17A55BB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7864CF2-8C0C-4EC9-8052-F12F1C4A016C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7864CF2-8C0C-4EC9-8052-F12F1C4A016C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7864CF2-8C0C-4EC9-8052-F12F1C4A016C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7864CF2-8C0C-4EC9-8052-F12F1C4A016C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAEF0B82-C6F7-4F27-A92A-170670B8B064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAEF0B82-C6F7-4F27-A92A-170670B8B064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAEF0B82-C6F7-4F27-A92A-170670B8B064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAEF0B82-C6F7-4F27-A92A-170670B8B064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D86AE5D-1E87-43BD-808F-817C17599501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D86AE5D-1E87-43BD-808F-817C17599501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D86AE5D-1E87-43BD-808F-817C17599501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D86AE5D-1E87-43BD-808F-817C17599501}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D0E222C-3E23-488A-B1EE-71ED5EFD60F6}
+	EndGlobalSection
+EndGlobal
